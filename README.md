@@ -11,6 +11,14 @@ A centralized repository that contains all Flutter apps developed following the 
 
 ![Mi card](./img/micard.png)
 
+## Dice app
+
+![Dice app](./img/diceapp.png)
+
+## Magic 8 ball app
+
+![Magic 8](./img/magic8.png)
+
 ### Flutter documentation
 
 https://flutter.dev/docs
